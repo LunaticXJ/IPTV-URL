@@ -167,8 +167,6 @@ http://148.135.93.213/phenix.php?id=fhzw
 http://148.135.93.213/phenix.php?id=fhzx
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="港澳台频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰香港
 http://148.135.93.213/phenix.php?id=fhhk
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="港澳台频道",翡翠台
-http://148.135.93.213/live.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Global2.png" group-title="港澳台频道",寰宇新闻
 http://222.128.55.152:9080/live/hy.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVBS1.png" group-title="港澳台频道",TVBS新闻台
