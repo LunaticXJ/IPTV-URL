@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-APP APTV
+
+#EXTINF:-1 group-title="露台",半球
+rtsp://xjay.us.kg:25544/live/Px4gnzfbhGDEs_01?expired=20570419161347
+#EXTINF:-1 group-title="露台",高空拋物
+rtsp://xjay.us.kg:25544/live/PpfKvAmTWE9gg_01?expired=20570419161440
