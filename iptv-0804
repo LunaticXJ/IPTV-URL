@@ -1,5 +1,10 @@
 #EXTM3U
 #EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://www.3kjs.com/tv.txt
+
+#EXTM3U
+#EXT-X-APP APTV
 
 #EXTINF:-1 group-title="CCTV",CCTV1
 http://39.135.55.105:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1
@@ -193,12 +198,12 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227490/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221227498/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="百视通",中华特产
 http://39.135.55.105:6610/PLTV/88888888/224/3221227502/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="百视通",哒啵竞技
+#EXTINF:-1 group-title="NewTV",哒啵竞技
 http://39.135.55.105:6610/PLTV/88888888/224/3221227252/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="百视通",哒啵赛事
+#EXTINF:-1 group-title="NewTV",哒啵赛事
 http://39.135.55.105:6610/PLTV/88888888/224/3221227331/index.m3u8?servicetype=1
 
-#EXTINF:-1 group-title="未分类",优享4K
+#EXTINF:-1 group-title="未分类",纯享4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="未分类",FETV
 http://39.135.55.105:6610/PLTV/88888888/224/3221227202/index.m3u8?servicetype=1
@@ -215,6 +220,3 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221226560/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221227327/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="未分类",未知
 http://39.135.55.105:6610/PLTV/88888888/224/3221227478/index.m3u8?servicetype=1
-
-
-
